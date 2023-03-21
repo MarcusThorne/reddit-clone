@@ -1,0 +1,52 @@
+.postContainer {
+    display: flex;
+    background-color: white;
+    margin: 5px 0;
+    border-radius: 10px;
+    min-width: 600px;
+    max-width: 1200px;
+    width: 100%;
+    float: left;
+    height: max-content;
+    padding-right: 20px;
+    box-shadow: 0px 5px 5px rgb(208, 208, 208);
+}
+
+.postContent div {
+    display: flex;
+    border-top: 1px solid rgb(198, 198, 198);
+    justify-content: space-between;
+}
+
+.postContent div p {
+    margin: 20px;
+    width: max-content;
+}
+
+.likesContainer {
+    max-width: 50px;
+    margin: 0 20px;
+}
+
+.likes {
+
+}
+
+.post {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+.username {
+
+}
+
+.date {
+
+}
+
+.comments {
+
+}

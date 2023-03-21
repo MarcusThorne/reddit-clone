@@ -1,0 +1,23 @@
+.postsContainer {
+    min-width: 600px;
+    max-width: 1200px;
+    width: 100%;
+    float: left;
+    height: max-content;
+    margin: 20px;
+}
+
+.newPostContainer {
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.newPost {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 100%;
+    height: 150px;
+    font-size: 20px;
+    padding: 20px;
+}
